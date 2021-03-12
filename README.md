@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Yeyeong99/Yeyeong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ **기회를 만드는** 개발자, 예영입니다. 
+
+## 실행한 프로젝트 <br>
+1. [당신의 하루는 어떤가요?](https://camerart7th.netlify.app/)
+
+## SNS
+* 네이버 블로그 : https://blog.naver.com/sinabero254/222104052039
