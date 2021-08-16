@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 ## SNS
-* [블로그] (https://yeyeong99.tistory.com/)
+* [블로그](https://yeyeong99.tistory.com/)
