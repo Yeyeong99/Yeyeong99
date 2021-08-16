@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 1. 당신의 하루는 어떤가요? <br>
 ✔ 프론트엔드 개발
     - [테스트하러 가기](https://camerart7th.netlify.app/)
-    - [제작과정](https://blog.naver.com/sinabero254/222234129884)
+    - [제작과정](https://yeyeong99.tistory.com/4)
     - [repository](https://github.com/Yeyeong99/camerart)
 
 
 ## SNS
-* 네이버 블로그 : https://blog.naver.com/sinabero254/222104052039
+* 블로그 : https://yeyeong99.tistory.com/
