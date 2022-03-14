@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 ✔ EDA and correlation analysis using Netflix Data
     - [repository](https://github.com/Yeyeong99/Netflix-EDA)
     
-3. How has your day been?? <br>
+2. How has your day been? <br>
 ✔ Front-end
     - [To the test](https://camerart7th.netlify.app/)
     - [project process](https://yeyeong99.tistory.com/4)
     - [repository](https://github.com/Yeyeong99/camerart)
+
+3. Creating Illustrations Depending on Changing Weather <br>
+    - [page](https://swimjiy.github.io/sullivan_project_I-dle/)
+    - [repository](https://github.com/swimjiy/sullivan_project_I-dle)
 
 
 ## SNS
