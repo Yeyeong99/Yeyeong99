@@ -15,23 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- **기회를 만드는** 개발자, 예영입니다. 
 
-## Projects <br>
-1. Netflix-EDA with Three Other Ott Services<br>
-✔ EDA and correlation analysis using Netflix Data
-    - [repository](https://github.com/Yeyeong99/Netflix-EDA)
-    
-2. How has your day been? <br>
-✔ Front-end
-    - [To the test](https://camerart7th.netlify.app/)
-    - [project process](https://yeyeong99.tistory.com/4)
-    - [repository](https://github.com/Yeyeong99/camerart)
+### 🚩 Studying
+- Machine Learning
+- Deep Learning
 
-3. Creating Illustrations Depending on Changing Weather <br>
-    - [page](https://swimjiy.github.io/sullivan_project_I-dle/)
-    - [repository](https://github.com/swimjiy/sullivan_project_I-dle)
+[![Yeyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## SNS
-* [Blog](https://velog.io/@gongsam)
+<a href="https://velog.io/@gongsaml"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
