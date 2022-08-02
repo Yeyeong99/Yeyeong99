@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### 🚩 Studying
-- Machine Learning
-- Deep Learning
+### 🚩 Interested in
+- Data Science
+- Web Front-End
 
 [![Yeyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
