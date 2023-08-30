@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ### 🚩 Interested in
 - Data Science
 - Web Front-End
-
-[![Yeyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+- UXUI Design
+  
 <a href="https://velog.io/@gongsaml"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
