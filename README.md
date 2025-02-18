@@ -2,11 +2,11 @@
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Yeyeong&fontSize=90&)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&show_icons=true&theme=radical)
 
 -->
 # Hi there 👋
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0helloworld" width="600" height="300"/></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&show_icons=true&theme=radical)
 
 <!--
 **Yeyeong99/Yeyeong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
