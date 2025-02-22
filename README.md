@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeyeong99&layout=compact)
 
 ### 🚩 Contact
-<a href="https://www.linkedin.com/in/yylee99/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+<a href="https://www.linkedin.com/in/yylee99/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
