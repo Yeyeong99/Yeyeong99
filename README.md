@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeyeong99&layout=compact)
 
 ### 🚩 Contact
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yeyeong99">
-
-
+<a href="https://www.linkedin.com/in/yeyeong99"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yeyeong99"></a>
