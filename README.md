@@ -10,7 +10,7 @@
 <!--
 **Yeyeong99/Yeyeong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yeyeong99)](www.linkedin.com/in/yeyeong99)
 -->
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&show_icons=true&theme=tokyonight&rank_icon=github)
 ### 🚩 Interested in
 - Data Science
 - Web Front-End
