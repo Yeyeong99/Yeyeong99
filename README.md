@@ -1,12 +1,8 @@
-
-
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Yeyeong&fontSize=90&)
-
 -->
 # Hi there 👋
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0helloworld" width="600" height="300"/></a>
-
 <!--
 **Yeyeong99/Yeyeong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&show_icons=true&theme=radical)
@@ -21,15 +17,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&show_icons=true&theme=radical)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yeyeong99)](www.linkedin.com/in/yeyeong99)
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeyeong99&show_icons=true&theme=tokyonight&rank_icon=github)
+### 🚩 Currently in
+SSAFY(Samsung Software Academy for Youth) 13th Batch
+
 ### 🚩 Interested in
 - Data Science
 - Web Front-End
 - UXUI Design
-
 
 ### 🚩 Tech Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeyeong99&layout=donut-vertical&hide=jupyter%20notebook)
@@ -40,3 +37,4 @@ Here are some ideas to get you started:
 
 ### 🚩 Contact
 <a href="https://www.linkedin.com/in/yeyeong99"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yeyeong99"></a>
+
