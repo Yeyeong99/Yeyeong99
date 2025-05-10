@@ -43,4 +43,5 @@ SSAFY(Samsung Software Academy for Youth) 13th Batch
 
 ### 🚩 Contact
 <a href="https://www.linkedin.com/in/yeyeong99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/yeyeong99"></a>
+<a href="mailto:gongsam99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=gongsam99@gmail.com"></a>
 
