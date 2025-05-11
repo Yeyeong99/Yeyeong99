@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ### 🚩 Tool
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
-### 🚩 Currently in
-SSAFY(Samsung Software Academy for Youth) 13th Batch
-
 ### 🚩 Interested in
 - Data Science
 - Web
 - UXUI Design
+
+### 🚩 Currently in
+SSAFY(Samsung Software Academy for Youth) 13th Batch
 
 ### 🚩 Contact
 <a href="https://www.linkedin.com/in/yeyeong99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/yeyeong99"></a>
