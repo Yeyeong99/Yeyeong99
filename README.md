@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 🚩 Interested in
 - Data Science
-- Web
+- Frontend
 - UXUI Design
 
 ### 🚩 Currently in
