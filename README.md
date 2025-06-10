@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 ### 🚩 Interested in
-- Data Science
+- AI / Data Science
 - Frontend
 - UXUI Design
 
