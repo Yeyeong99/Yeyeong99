@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 - Frontend
 - UXUI Design
 
-### 🚩 Currently in
-SSAFY(Samsung Software Academy for Youth) 13th Batch
+### 🚩 Experience
+SSAFY(Samsung Software·AI Academy for Youth) 13th Batch
 
 ### 🚩 Contact
 <a href="https://www.linkedin.com/in/yeyeong99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/yeyeong99"></a>
