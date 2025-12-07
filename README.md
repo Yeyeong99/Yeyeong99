@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 - UXUI Design
 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0helloworld" width="600" height="300"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeyeong99&layout=compact&hide=jupyter%20notebook)
 
 -->
 ### 🚩 Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeyeong99&layout=compact&hide=jupyter%20notebook)
 
 
 |**✨AI✨**|  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white">|
