@@ -49,7 +49,11 @@ Here are some ideas to get you started:
 
 
 ### 🚩 Experience
-SSAFY(Samsung Software·AI Academy for Youth) 13th Batch
+- Release Android Application: Incheon Time Travel
+  - [Github](https://github.com/incheon-time-traveler/TimeTravel)
+  - [Download Link](https://m.onestore.co.kr/v2/ko-kr/app/0001002257)
+    
+- SSAFY(Samsung Software·AI Academy for Youth) 13th Batch
 <br>
 <br>
 
