@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-
-
 ### 🚩 Contact
 <a href="https://www.linkedin.com/in/yeyeong99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/yeyeong99"></a>
 
