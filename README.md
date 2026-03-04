@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 
 
 ### 🚩 Experience
-- Release Android Application: Incheon Time Travel
+- Release an Android Application: Travel Guide Application Specilized in Incheon, Korea
   - [Github](https://github.com/incheon-time-traveler/TimeTravel)
   - [Download Link](https://m.onestore.co.kr/v2/ko-kr/app/0001002257)
     
 - SSAFY(Samsung Software·AI Academy for Youth) 13th Batch
 <br>
-<br>
+
 
 ### 🚩 Contact
 <a href="https://www.linkedin.com/in/yeyeong99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/yeyeong99"></a>
